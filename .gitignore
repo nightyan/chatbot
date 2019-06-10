@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.vscode/
+itchat.pkl
+my_chatbot_config.py
